@@ -8,6 +8,8 @@ backend/.env
 # Database
 *.db
 backend/*.db
+agent_budget.db
+backend/agent_budget.db
 
 # React
 node_modules/
